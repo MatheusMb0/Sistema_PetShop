@@ -1,0 +1,1 @@
+Server=localhost;Port=3306;Database=PetShop;Uid=root;Pwd=1234
